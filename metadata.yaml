@@ -1,0 +1,42 @@
+_repo: Prejudices-Second-Series_53467
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Hatteras, Owen
+    - Mencken, Henry L.
+    - Mencken, Henry Louis
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
+description: ''
+gutenberg_issued: '2016-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- History and criticism'
+- !lcc 'PS'
+- !lcsh 'American essays -- 20th century'
+- !lcsh 'Literature -- History and criticism'
+- GITenberg
+tableOfContents: 'The National letters: Prophets and their visions. The answering
+  fact. The Ashes of New England. The ferment underground. In the literary abattoir.
+  Underlying causes. The lonesome artist. The cultural background. Under the campus
+  pump. The intolerable burden. Epilogue -- Roosevelt: an autopsy -- The Sahara of
+  the Bozart -- The Divine Afflatus -- Scientific examination of a popular virtue
+  -- Exeunt Omnes -- The allied arts: On music-lovers. Opera. The music of to-morrow.
+  Tempo di Valse. The Puritan as artist. The human face. The cerebral mime -- The
+  cult of hope -- The dry millennium: The Holy War. The lure of Babylon. Cupid and
+  well-water. The triumph of idealism -- Appendix on a tender theme: The nature of
+  love. The incomparable buzzsaw. Women as spectacles. Woman and the artist. Martyrs.
+  The burnt child. The supreme comedy. A hidden cause. Bad workmanship.'
+title: Prejudices, Second Series
+url: http://www.gutenberg.org/ebooks/53467
